@@ -14,12 +14,12 @@ const GithubCorner = () => (
       height="80"
       viewBox="0 0 250 250"
       style={{
-        fill: '#A11EC6',
+        fill: '#ff8ae2',
         color: '#FFFFFF',
-        position: 'absolute',
+        position: 'fixed',
         top: 0,
         border: 0,
-        right: 0
+        right: 0,
       }}
       aria-hidden="true"
     >
